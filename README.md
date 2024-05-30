@@ -1,9 +1,10 @@
 # PizzaHut_sales_using_SQL
 
 
-Hello,I am Atharva Patkar. In this project,I have analyzed the PizzaHut Sales using SQL queries related to the data.Sales data contains pizza types ,categories,prices,order details,etc.
+Hi, I am Atharva Patkar. Using pertinent SQL queries, I have analyzed Pizza Hut sales for this project.Pizza types, categories, prices, order details, etc. are all included in sales statistics.
 
-All the data in format of .csv files further the data has moved to the SQL database.Using SQL queries solvwd the questions and got the analysis that wanted.
+The data has all been transferred to a SQL database and is now all in the format of.csv files.SQL queries were used to solve the problems and obtain the desired analysis.
 
-The pdf and ppt shows the queries and their results.
+The queries and results are displayed in the ppt and pdf files.
+
 
